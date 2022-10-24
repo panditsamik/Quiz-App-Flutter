@@ -60,7 +60,7 @@ Alert(
       ],
     ).show();
 ```
-[For more information](https://pub.dev/packages/rflutter_alert)
+[Link -->](https://pub.dev/packages/rflutter_alert)
 
 
 # Screenshots
